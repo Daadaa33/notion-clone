@@ -14,7 +14,7 @@ const DocumentsPage = () => {
     const create = useMutation(api.documents.create)
 
     const onCreate = () => {
-        const promise = create({ title : "2023-204" })
+        const promise = create({ title : "Untitle" })
         
         toast.promise(promise, {
             loading: "Creating a new note...",
