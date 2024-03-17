@@ -1,10 +1,9 @@
 # Fullstack Notion Clone: Next.js 14, React, Convex, Tailwind | Full Course 2024
 
-![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
 
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
 
+This is a repository for Fullstack Notion Clone: Next.js 14, React, Convex, Tailwind | Full Course 2024
 
 
 Key Features:
@@ -29,12 +28,12 @@ Key Features:
 
 ### Prerequisites
 
-**Node version 18.x.x**
+**Node version 20.x.x**
 
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/Daadaa33/notion-clone.git
 ```
 
 ### Install packages
