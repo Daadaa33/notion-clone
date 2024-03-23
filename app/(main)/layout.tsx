@@ -8,6 +8,7 @@ import { Spinner } from "@/components/spinner";
 
 import  Navigation  from "./_components/navigation";
 import { SearchCommand } from "@/components/search-command";
+import { SettingsModal } from "@/components/modals/settings-model";
 
 const MainLayout = ({
   children
@@ -33,6 +34,7 @@ const MainLayout = ({
       <Navigation />
       <main className="flex-1 h-full overflow-y-auto">
         <SearchCommand />
+        <SettingsModal />
         {children}
       </main>
     </div>
